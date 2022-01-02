@@ -5,8 +5,6 @@
 - 🔭 Pursuing my masters in Applied Computer Science ...<br/>
 - 🌱 Working on JavaScript projects ...
 
-Connect with me on Linkedin: 
-<p></p>
 
 <h2>Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
