@@ -10,4 +10,5 @@ Connect with me on Linkedin:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java-8 Interfaces](https://dev.to/yashwanth_9999/java-8-interfaces-10o8)
 <!-- BLOG-POST-LIST:END -->
