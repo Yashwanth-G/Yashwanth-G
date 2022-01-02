@@ -2,7 +2,7 @@
 <p><img align="center" src="https://github.com/Yashwanth-G/Yashwanth-G/blob/main/cover.gif" width="1000" height="250"/></p>
 
 <h2>About Me:</h2>
-- 🔭 Pursuing masters in Applied Computer Science ...
+- 🔭 Pursuing masters in Applied Computer Science ...<br/>
 - 🔭 Coding enthusiast
 
 <h2>Latest Blog Posts</h2>
