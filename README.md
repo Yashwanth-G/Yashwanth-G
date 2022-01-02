@@ -8,7 +8,7 @@ I'm currently:
 Connect with me on Linkedin: 
 <p><a href="https://www.linkedin.com/in/imgyash/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue"></a><br/><br/></p>
 
-# Latest Blog posts
+<h2>Latest Blog Posts </h2>
 <!-- BLOG-POST-LIST:START -->
 - [Java-8 Interfaces](https://dev.to/yashwanth_9999/java-8-interfaces-10o8)
 <!-- BLOG-POST-LIST:END -->
