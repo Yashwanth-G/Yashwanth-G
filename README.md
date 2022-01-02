@@ -3,7 +3,7 @@
 
 <h2>About Me:</h2>
 - 🔭 Pursuing masters in Applied Computer Science ...
-
+- 🔭 Coding enthusiast
 
 <h2>Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
