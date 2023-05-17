@@ -63,10 +63,11 @@
 
 </p>
 
+<!--
 <h2>My Profile Views</h2>
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=Yashwanth-G">
-</a>
+</a>-->
 <!--<a href="https://github.com/Yashwanth-G?tab=followers"><img src="https://img.shields.io/github/followers/Yashwanth-G?label=Followers&style=social" alt="GitHub Badge"></a>-->
 
 
