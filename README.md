@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Yashwanth Gundlapally's profile</h2>
+<!--<h2 align="center">Welcome to Yashwanth Gundlapally's profile</h2>
 <p><img align="center" src="https://github.com/Yashwanth-G/Yashwanth-G/blob/main/cover.gif" width="1000" height="250"/></p>
 
 <h2>About Me:</h2>
@@ -7,9 +7,11 @@
 
 <h2>Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-- [Java-8 Interfaces](https://dev.to/yashwanth_9999/java-8-interfaces-10o8)
+<!--- [Java-8 Interfaces](https://dev.to/yashwanth_9999/java-8-interfaces-10o8)-->
 <!-- BLOG-POST-LIST:END -->
 
+
+<!--
 <h2>Languages:</h2>
 <h2>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
@@ -44,7 +46,7 @@
 <h2> My Github Activity: </h2>
 <p>
     <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashwanth-G's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-G&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashwanth-G's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-G&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>-->
     </a>
 <!--
   <br/>
@@ -71,8 +73,8 @@
 <!--<a href="https://github.com/Yashwanth-G?tab=followers"><img src="https://img.shields.io/github/followers/Yashwanth-G?label=Followers&style=social" alt="GitHub Badge"></a>-->
 
 
-<h2> Connect with me: </h2>
+<!--<h2> Connect with me: </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/imgyash/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 <a href="mailto:g.yashwanth896@gmail.com?subject=Contacting from Github ReadMe"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white"></a>
-</p>
+</p>-->
